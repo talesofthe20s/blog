@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Tales of the 20s
-metaTitle: ''
+metaTitle: Tales of the 20s
 postsHeading: Latest posts
 archiveButtonText: See all posts
 socialImage: ''
