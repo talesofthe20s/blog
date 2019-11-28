@@ -1,0 +1,13 @@
+{
+  "showThemeCredit": false,
+  "name": "Tales of the 20s",
+  "shortDesc": "Tales are written with love to keep the authors sane, at a minimum.",
+  "url": "https://talesofthe20s.com",
+  "authorEmail": "me@andy-bell.design",
+  "authorHandle": "@hankchizljaw",
+  "authorName": "Andy Bell",
+  "enableThirdPartyComments": false,
+  "maxPostsPerPage": 5,
+  "paymentPointer": "",
+  "faviconPath": "/images/favicon.png"
+}
